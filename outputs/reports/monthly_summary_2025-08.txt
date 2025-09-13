@@ -1,0 +1,12 @@
+Summary for 2025-08
+Income: 50000.00
+Expense: 700.00
+Net: 49300.00
+
+By Category:
+Food: 500.00 (budget 5000.00)
+Transport: 200.00 (budget 1500.00)
+
+Top Merchants:
+SWIGGY: 500.00
+Uber: 200.00
