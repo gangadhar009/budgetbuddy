@@ -1,6 +1,4 @@
 Team Members
 
-
 — Bhargava Sai Pasumarthy (bhpasuma@cisco.com)
-
 — Gangadhar Madupu (gmadupu@cisco.com)
